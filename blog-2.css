@@ -1,10 +1,10 @@
 *{
     margin: 0;
     padding: 0;
-} 
-
+}
 body{
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 #neodev{
@@ -19,8 +19,7 @@ body{
     margin-right: 30px;
     border-radius: 0 0 35px 0;
     color: #ffff;
-
-} 
+}
 .list{
     display: flex;
     flex-direction: row;
@@ -38,90 +37,44 @@ body{
 #big-text{
     font-size: 1.5em;
 }
-#image{
-    margin-top: 30px;
-    margin-left: 30vw;
-    height: 500px;
-}
-#portfolio{
-    text-align: center;
-    margin-top: 25px;
-}
-.container1{
+
+h1{
+    color: black;
     text-align: center;
     margin-top: 40px;
+    font-size: 2.5em;
+    font-family: 'Cedarville Cursive', cursive;
 }
-.container1 p{
-    margin-top: 15px;
-    font-size: 1.5em;
-    font-weight: 100;
-}
-.container2{
-    text-align: center;
-    margin-top: 50px;
-}
-.container2 p{
-    margin-top: 15px;
-    font-size: 1.5em;
-    font-weight: 100;
-}
-.container3{
-    text-align: center;
-    margin-top: 50px;
-}
-.container3 p{
-    margin-top: 15px;
-    font-size: 1.5em;
-    font-weight: 100;
-}
-#project-bttn{
-    margin-top:15px;;
-    background-color: #1e40af;
-    height: 30px;
-    width: 150px;
-    font-size: 15px;
-    font-weight: bold;
-    border-radius: 5px;
-    border: none;
 
-}
-#project-bttn a{
-    text-decoration: none;
-    color: #ffff;
-}
-.container4{
+#sec-1{
+    color: black;
+    width: 60vw;
     text-align: center;
-    margin-top: 50px;
-    
-}
-.container4 p{
-    margin-top: 15px;
     font-size: 1.5em;
-    font-weight: 100;
+    margin: auto;
+    margin-top: 25px;
+    word-spacing: 2px;
+    font-family: 'Open Sans', sans-serif;
 }
-#blog-bttn{
-    margin-top:15px;;
-    background-color: #1e40af;
-    height: 30px;
-    width: 150px;
-    font-size: 15px;
-    font-weight: bold;
-    border-radius: 5px;
-    border: 0px;
-
-}
-#blog-bttn a{
-    text-decoration: none;
-    color: #ffff;
-}
-.container5{
+#sec-2{
+    color: black;
+    width: 60vw;
     text-align: center;
-    margin-top: 50px;
-}
-.container5 p{
-    margin-top: 15px;
     font-size: 1.5em;
-    font-weight: 100;
+    margin: auto;
+    margin-top: 25px;
+    word-spacing: 2px;
+    font-family: 'Open Sans', sans-serif;
+}
+#sec-3{
+    color: black;
+    width: 60vw;
+    text-align: center;
+    font-size: 1.5em;
+    margin: auto;
+    margin-top: 25px;
+    word-spacing: 2px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 footer{
