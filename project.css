@@ -67,20 +67,7 @@ body{
     font-size: 1.5em;
     
 }
-.bttn-link{
-    margin-top:10px;;
-    background-color: #581c87;
-    height: 30px;
-    width: 150px;
-    font-size: 15px;
-    font-weight: bold;
-    border-radius: 5px;
-    border: none;
-}
-.bttn-link a{
-    text-decoration: none;
-    color: #ffff;
-}
+
 .container-2{
     text-align: center;
     margin-top: 60px;
@@ -265,4 +252,35 @@ footer ul li a{
     padding-left: 12px;
     font-size: 30px;
     
+}
+
+.bttn-link1{
+    margin-top:10px;;
+    background-color: #581c87;
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.bttn-link1 a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.bttn-link2{
+    margin-top:10px;;
+    background-color: #d8b4fe;
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
+.bttn-link2 a{
+    text-decoration: none;
+    color: black;
 }
